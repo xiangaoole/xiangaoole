@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-🧘Meditation is the destination for world peace.
+🧘 May the world in peace.
 
-- 👯 I’m looking for 🥳*interesting remote projects* (Java, Kotlin, Ruby, JS, Python | Android, ReactNative, Web, scripts).
-- 🔭 I’m currently in my gap year, traveling through 🇵🇭Philippine(Boracay), 🇮🇩Indonesia(Ubud), 🇲🇾Malaysia(Penang), 🇹🇭Thailand(Chiang Mai), 🇱🇦Laos(Luang Prabang), 🇲🇽Mexico(Mexico City). You can find my tracks [here](https://nomadlist.com/@haroldgao).
-- 🌱 I’m currently establishing my website [haroldgao.com](https://haroldgao.com) and a [podcast player](https://www.haroldgao.com/podventure/)
-- ⚡ Learning 🇪🇸Spanish, 🧘meditation and 🎸guitar.
-- 📫 How to reach me: [@haroldgaox](https://twitter.com/haroldgaox)
+- 👯 I’m an Android and React Native developer🥳.
+- 🔭 In my gap year(Jul,2023-Jul,2024), I travelled through 🇵🇭Philippine(Boracay), 🇮🇩Indonesia(Ubud), 🇲🇾Malaysia(Penang), 🇹🇭Thailand(Chiang Mai, Bangkok), 🇱🇦Laos(Luang Prabang), 🇲🇽Mexico(Mexico City). You can find my tracks [here](https://nomadlist.com/@haroldgao).
+- 🌱 Welcome to my website [haroldgao.com](https://haroldgao.com); try my [better podcast player, iOS/Android](https://www.haroldgao.com/podventure/) or [hacker launcher, Android](https://play.google.com/store/apps/details?id=hacker.launcher)
+- ⚡ I can speak 🇬🇧English, 🇨🇳Mandarin and 🇪🇸Spanish. Welcome to say hello, 你好, hola to me X[@haroldgaox](https://twitter.com/haroldgaox)
 
