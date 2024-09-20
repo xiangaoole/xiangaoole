@@ -1,4 +1,4 @@
-## 👨🏻‍💻 Who am I
+## 👨🏻‍💻 Harold Gao
 
 Android and React Native developer.
 
